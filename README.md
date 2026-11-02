@@ -17,7 +17,7 @@ The dedicated website source is in [`chatviewer/`](chatviewer/index.html). Uploa
 | Support | https://www.mymandoob.com/chatviewer/support.html |
 | Privacy policy | https://www.mymandoob.com/chatviewer/privacy.html |
 | Terms and conditions | https://www.mymandoob.com/chatviewer/terms.html |
-| Developer | https://www.farooqmusic.com/ |
+| Developer | https://www.farooqmughal.net/ |
 
 **Support email:** babaqatar@gmail.com. Do not send private archives or unredacted screenshots. Every website page links to the other pages and the developer website. The HTML pages are also printable from a browser.
 
