@@ -4,7 +4,7 @@ Farooq Chat Viewer reads chosen local exports. It has no WhatsApp login, cloud b
 
 The app does not encrypt exports. Source transcript/media files are not modified by reading. ZIP import creates a unique destination subfolder. Save creates a copy outside the selected chat folder. Disconnect removes the remembered path only; it does not remove archives. Preferences include the remembered library, Me selection, date order, theme and interface language, stored through shared_preferences in the app's Windows profile storage.
 
-No archive data is included automatically in support requests. Email babaqatar@gmail.com with app version, Windows version, steps and a sanitized screenshot. Keep private chats and passwords out of public bug reports.
+No archive data is included automatically in support requests. Email support@farooqmughal.net with app version, Windows version, steps and a sanitized screenshot. Keep private chats and passwords out of public bug reports.
 
 Exports are not restorable WhatsApp account backups. Verify the messages and media that matter and keep an independent copy before deciding whether to remove anything from your phone.
 
@@ -14,8 +14,8 @@ The saved library is reopened automatically until disconnected. Disconnect clear
 
 ## Dedicated website
 
-Prepared page: https://www.mymandoob.com/chatviewer/privacy.html
+Prepared page: https://farooqmughal.net/chatviewer/privacy/
 
 Local website source: [`../chatviewer/privacy.html`](../chatviewer/privacy.html). Website upload and live verification are pending as of 9 September 2026.
 
-Support: babaqatar@gmail.com · Developer: https://www.farooqmusic.com/
+Support: support@farooqmughal.net · Developer: https://www.farooqmusic.com/

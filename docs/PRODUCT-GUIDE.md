@@ -40,8 +40,8 @@ For troubleshooting, see [Support](SUPPORT.md). For the current owner review, us
 
 ## Dedicated website
 
-Prepared page: https://www.mymandoob.com/chatviewer/how-to-use.html
+Prepared page: https://farooqmughal.net/chatviewer/guide/
 
 Local website source: [`../chatviewer/how-to-use.html`](../chatviewer/how-to-use.html). Website upload and live verification are pending as of 9 September 2026.
 
-Support: babaqatar@gmail.com · Developer: https://www.farooqmusic.com/
+Support: support@farooqmughal.net · Developer: https://www.farooqmusic.com/

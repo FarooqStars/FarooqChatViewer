@@ -8,18 +8,18 @@ A free, open-source Windows desktop app for reading exported WhatsApp conversati
 
 ## Website, support and Store preparation
 
-The dedicated website source is in [`chatviewer/`](chatviewer/index.html). Upload that folder to `public_html/chatviewer/` on MyMandoob. The following are the intended public URLs; website upload and live verification remain pending as of 9 September 2026.
+The dedicated website source is in [`chatviewer/`](chatviewer/index.html). Upload that folder to `public_html/chatviewer/` on farooqmughal.net. The following are the intended public URLs; website upload and live verification remain pending as of 9 September 2026.
 
 | Page | URL |
 | --- | --- |
-| App home | https://www.mymandoob.com/chatviewer/ |
-| How to use | https://www.mymandoob.com/chatviewer/how-to-use.html |
-| Support | https://www.mymandoob.com/chatviewer/support.html |
-| Privacy policy | https://www.mymandoob.com/chatviewer/privacy.html |
-| Terms and conditions | https://www.mymandoob.com/chatviewer/terms.html |
+| App home | https://farooqmughal.net/chatviewer/ |
+| How to use | https://farooqmughal.net/chatviewer/guide/ |
+| Support | https://farooqmughal.net/chatviewer/support/ |
+| Privacy policy | https://farooqmughal.net/chatviewer/privacy/ |
+| Terms and conditions | https://farooqmughal.net/chatviewer/terms/ |
 | Developer | https://www.farooqmughal.net/ |
 
-**Support email:** babaqatar@gmail.com. Do not send private archives or unredacted screenshots. Every website page links to the other pages and the developer website. The HTML pages are also printable from a browser.
+**Support email:** support@farooqmughal.net. Do not send private archives or unredacted screenshots. Every website page links to the other pages and the developer website. The HTML pages are also printable from a browser.
 
 See the [complete Publisher guide](docs/MICROSOFT-STORE-PUBLISHER-GUIDE.html) and [copy-ready listing fields](docs/store-listing.json) for the Microsoft Partner Center update. The website uses the existing app icon and local assets without external scripts or fonts. The home-page conversation is explicitly labeled as an illustration, not an app screenshot.
 
@@ -138,7 +138,7 @@ See [BUILDING.md](docs/BUILDING.md) for release packaging, native checks and run
 
 ## Support and contributions
 
-Report reproducible problems in [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues), or email **babaqatar@gmail.com**. Include app version, Windows version, steps, expected/actual behavior and a sanitized example. Never attach private archives or unredacted chat screenshots to a public issue. See [SUPPORT.md](docs/SUPPORT.md).
+Report reproducible problems in [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues), or email **support@farooqmughal.net**. Include app version, Windows version, steps, expected/actual behavior and a sanitized example. Never attach private archives or unredacted chat screenshots to a public issue. See [SUPPORT.md](docs/SUPPORT.md).
 
 During owner testing, prioritize reproducible defects in search, persistence, media and sharing. Preserve source-file integrity and add focused regression coverage for behavioral changes. Use fictional fixtures in contributions.
 

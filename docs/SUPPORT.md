@@ -1,6 +1,6 @@
 # Support
 
-Report a reproducible defect through [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues) or email babaqatar@gmail.com. Include version, Windows version, steps and expected/actual results. Use the [test report template](TESTING.md). Never attach private chat archives or unredacted screenshots to public issues.
+Report a reproducible defect through [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues) or email support@farooqmughal.net. Include version, Windows version, steps and expected/actual results. Use the [test report template](TESTING.md). Never attach private chat archives or unredacted screenshots to public issues.
 
 | Symptom | What to check |
 | --- | --- |
@@ -18,8 +18,8 @@ Current status is owner testing, not a guarantee that every export locale, codec
 
 ## Dedicated website
 
-Prepared page: https://www.mymandoob.com/chatviewer/support.html
+Prepared page: https://farooqmughal.net/chatviewer/support/
 
 Local website source: [`../chatviewer/support.html`](../chatviewer/support.html). Website upload and live verification are pending as of 9 September 2026.
 
-Support: babaqatar@gmail.com · Developer: https://www.farooqmusic.com/
+Support: support@farooqmughal.net · Developer: https://www.farooqmusic.com/

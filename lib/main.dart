@@ -531,7 +531,7 @@ class _HomeState extends State<Home> {
       actions: [
         TextButton(
           onPressed: () =>
-              launchUrl(Uri(scheme: 'mailto', path: 'babaqatar@gmail.com')),
+              launchUrl(Uri(scheme: 'mailto', path: 'support@farooqmughal.net')),
           child: Text(t('Support')),
         ),
         TextButton(
