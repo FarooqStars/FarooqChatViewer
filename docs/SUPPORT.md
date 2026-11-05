@@ -1,6 +1,6 @@
 # Support
 
-Report a reproducible defect through [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues) or email support@farooqmughal.net. Include version, Windows version, steps and expected/actual results. Use the [test report template](TESTING.md). Never attach private chat archives or unredacted screenshots to public issues.
+Report a reproducible defect through [GitHub Issues](https://github.com/FarooqStars/FarooqChatViewer/issues) or email support@farooqmughal.net. Include version, Windows version, steps and expected/actual results. Use the [test report template](TESTING.md). Never attach private chat archives or unredacted screenshots to public issues.
 
 | Symptom | What to check |
 | --- | --- |

@@ -138,7 +138,7 @@ See [BUILDING.md](docs/BUILDING.md) for release packaging, native checks and run
 
 ## Support and contributions
 
-Report reproducible problems in [GitHub Issues](https://github.com/farooqmusicai/FarooqChatViewer/issues), or email **support@farooqmughal.net**. Include app version, Windows version, steps, expected/actual behavior and a sanitized example. Never attach private archives or unredacted chat screenshots to a public issue. See [SUPPORT.md](docs/SUPPORT.md).
+Report reproducible problems in [GitHub Issues](https://github.com/FarooqStars/FarooqChatViewer/issues), or email **support@farooqmughal.net**. Include app version, Windows version, steps, expected/actual behavior and a sanitized example. Never attach private archives or unredacted chat screenshots to a public issue. See [SUPPORT.md](docs/SUPPORT.md).
 
 During owner testing, prioritize reproducible defects in search, persistence, media and sharing. Preserve source-file integrity and add focused regression coverage for behavioral changes. Use fictional fixtures in contributions.
 
